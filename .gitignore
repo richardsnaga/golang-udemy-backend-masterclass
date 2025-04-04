@@ -1,9 +1,2 @@
-go.sum
-go.work
-go.work.sum
-
-bin/
-build/
-*.test
-*.prof
-*.pb.go
+*.log
+.vscode
